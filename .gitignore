@@ -116,6 +116,9 @@ ENV/
 
 # data
 data-bin/
+data
+
+nohup.out
 
 # reranking
 /examples/reranking/rerank_data
